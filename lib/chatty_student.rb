@@ -9,7 +9,7 @@ rs? Okay well let me just tell you who died...\n"
 
   def raise_hand
     super
-    10.times do |phrase|
+    10.times do
       phrase
     end
   end
