@@ -8,16 +8,7 @@ rs? Okay well let me just tell you who died...\n"
   end
 
   def raise_hand
-    "Pick me!"
-    "Pick me!"
-    "Pick me!"
-    "Pick me!"
-    "Pick me!"
-    "Pick me!"
-    "Pick me!"
-    "Pick me!"
-    "Pick me!"
-    "Pick me!"
+    $stdout.print "Pick me!\nPick me!\nPick me!\nPick me!\nPick me!\nPick me!\nPick me!\nPick me!\nPick me!\nPick me!\n"
   end
 
 
