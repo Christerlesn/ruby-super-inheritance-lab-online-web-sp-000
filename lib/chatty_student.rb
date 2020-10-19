@@ -7,5 +7,11 @@ king Dead last night? You didn't?! Oh man, it was so crazy! What, you don't want
 rs? Okay well let me just tell you who died...\n"
   end
 
+  def raise_hand
+    super.10.times do |phrase|
+      phrase
+    end
+  end
+
 
 end
