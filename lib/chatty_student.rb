@@ -8,10 +8,16 @@ rs? Okay well let me just tell you who died...\n"
   end
 
   def raise_hand
-    super
-    10.times do
-      phrase
-    end
+    "Pick me!"
+    "Pick me!"
+    "Pick me!"
+    "Pick me!"
+    "Pick me!"
+    "Pick me!"
+    "Pick me!"
+    "Pick me!"
+    "Pick me!"
+    "Pick me!"
   end
 
 
