@@ -5,7 +5,7 @@ class Student
   end
 
   def raise_hand
-    return "Pick me!\n"
+    $stdout.print "Pick me!\n"
   end
 
 end
